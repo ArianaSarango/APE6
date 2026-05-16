@@ -1,0 +1,6 @@
+backend/mosquitto/data/
+backend/mqtt-iot/.venv/
+backend/mqtt-iot/telemetria.db
+backend/spring-boot/target/
+__pycache__/
+*.pyc
